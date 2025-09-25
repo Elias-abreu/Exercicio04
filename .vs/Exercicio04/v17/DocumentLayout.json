@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\elias\\source\\repos\\Exercicio04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAD290C6-AA68-48ED-877C-03648C914FFA}|Exercicio04\\Exercicio04.csproj|c:\\users\\elias\\source\\repos\\exercicio04\\exercicio04\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD290C6-AA68-48ED-877C-03648C914FFA}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAD290C6-AA68-48ED-877C-03648C914FFA}|Exercicio04\\Exercicio04.csproj|c:\\users\\elias\\source\\repos\\exercicio04\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD290C6-AA68-48ED-877C-03648C914FFA}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD290C6-AA68-48ED-877C-03648C914FFA}|Exercicio04\\Exercicio04.csproj|c:\\users\\elias\\source\\repos\\exercicio04\\exercicio04\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD290C6-AA68-48ED-877C-03648C914FFA}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\Exercicio04\\Exercicio04\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
               "ToolTip": "C:\\Users\\elias\\source\\repos\\Exercicio04\\Exercicio04\\Program.cs",
               "RelativeToolTip": "Exercicio04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T01:45:02.917Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\elias\\source\\repos\\Exercicio04\\Exercicio04\\Carro.cs",
               "RelativeDocumentMoniker": "Exercicio04\\Carro.cs",
